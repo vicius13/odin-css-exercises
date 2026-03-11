@@ -10,6 +10,7 @@ body {
 .header {
   height: 72px;
   font-size: 32px;
+  padding: 0 16px;
   font-weight: 900;
   background: darkmagenta;
   color: white;
